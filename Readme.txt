@@ -1,3 +1,17 @@
+#Flood.io-elements-TypeScript
+Uploading automation performance testing framework built using Element, Flood.io using Page Object Model in TypeScript.
+
+
+About:
+------
+This project repository is for the article published on Medium platform.
+
+https://github.com/ManikandanKarunanithy/Flood.io-elements-TypeScript
+
+In this project repository, we are designing a Web Automation performance framework with Element, Flood.io using Page Object Model in TypeScript.
+
+For details, you can have a look at my above published article. Let me know if this was helpful. If you ever need my help, you can contact me through my LinkedIn Profile.
+https://www.linkedin.com/in/manikandankarunanithi/
 
 How to run the script in Flood.io cloud
 =======================================
